@@ -1,9 +1,6 @@
 package mygit;
-
 public class B {
     public void print() {
-        System.out.println("Class B initial code");
+        System.out.println("Bob updated class B");
     }
 }
-
-
