@@ -1,9 +1,10 @@
 package mygit;
 
 public class C {
-    int value = 15;
+    int value = 20;
 
     public void show() {
-        System.out.println("Updated in master branch");
+        System.out.println("Merged version after Alice and master changes");
+        System.out.println("Value: " + value);
     }
 }
