@@ -1,9 +1,10 @@
 package mygit;
 
 public class C {
-    int value = 10;
+    int value = 20;
 
     public void show() {
-        System.out.println("Value is " + value);
+        System.out.println("Alice updated value: " + value);
     }
 }
+
